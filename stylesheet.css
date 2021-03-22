@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: Arial;
+background-image: url(https://1.bp.blogspot.com/-Edc_W-EZkGM/XxjQIk_vRTI/AAAAAAAAG3o/q2twtT3NpAUw7XL4AUUEtlsvnKFlpuGgQCLcBGAsYHQ/d/HEROSCREEN-WALLPAPER%2BHD%2Bv2.jpg);  
+-webkit-background-size:cover;
+background-size:cover;
+background-color:#C89192
+background-position: center center;
+height: 100vh;
+}
+ 
+#navbar {
+  background-color: #547ceb;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+ 
+#navbar a {
+  float: left;
+  display: block;
+  width:180px;
+  color: #f2f2f2;
+  text-align: center;
+  padding:30px 15px;
+  text-decoration: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+     
+}
+#navbar a.active{
+    background: #262626;
+}
+ 
+#navbar a:hover {
+  background-color: darkorange;
+    size: auto;
+    
+    
+-#text    
+}
+.container{
+    font-size: 20px;
+    text-align: relative;
+    width: 1000;
+    margin-top:100px;
+    margin-left:10;
+    color: white        
+}
+
+
